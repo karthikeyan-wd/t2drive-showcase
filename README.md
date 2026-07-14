@@ -47,64 +47,48 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 # ✨ Key Features
 
 <table>
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 👤 Driver Onboarding
 
-- 📱 Mobile Number OTP Authentication
-- 👤 Driver Profile Registration
-- 📄 Document Upload & Verification
-- 🪪 Aadhaar, PAN & Driving License Verification
-- 🚗 Vehicle Document Submission
-- 📷 Profile Photo Upload
+- 📱 OTP Authentication
+- 👤 Profile Registration
+- 📄 Document Upload
+- 🪪 Aadhaar Verification
+- 🚘 Driving License
+- 🚗 Vehicle Documents
+- 📷 Profile Photo
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🚖 Ride Management
 
 - ⚡ Live Ride Requests
-- ✅ Accept & Reject Rides
-- 🚕 Local Trips
+- ✅ Accept / Reject Trips
+- 🚕 Local Rides
 - 🛣️ Outstation One-Way
-- 🔄 Round Trip Support
+- 🔄 Round Trips
 - 📅 Scheduled Rides
 - ⏳ Waiting Trips
-- 🌄 Day Halt Trips
+- 🌄 Day Halt
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
-<tr>
+## 🗺️ Navigation
 
-<td valign="top">
-
-## 🗺️ Navigation & Tracking
-
-- 📍 Google Maps Integration
+- 📍 Google Maps
 - 🧭 Turn-by-Turn Navigation
-- 🚩 Pickup & Drop Navigation
-- 📡 Real-Time Driver Tracking
+- 🚩 Pickup Navigation
+- 🎯 Destination Navigation
+- 📡 Live Tracking
 - 📤 Live Location Sharing
-- ⏱️ ETA & Route Updates
-
-</td>
-
-<td valign="top">
-
-## 💰 Earnings & Payments
-
-- 💵 Daily Earnings Dashboard
-- 📊 Ride Statistics
-- 💳 Secure Fare Collection
-- 👛 Driver Wallet
-- 💎 Subscription Plans
-- ⚡ Razorpay Integration
+- ⏱ ETA Updates
 
 </td>
 
@@ -114,31 +98,44 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 <td valign="top">
 
-## 🔔 Real-Time Communication
+## 💰 Earnings
 
-- 🔄 Socket.IO Integration
-- 📲 Instant Ride Notifications
-- 🔔 Driver Alerts
-- 📡 Live Trip Updates
-- 🟢 Online / Offline Status
+- 💵 Daily Earnings
+- 📊 Ride Statistics
+- 👛 Wallet
+- 💳 Fare Collection
+- ⚡ Razorpay Payments
+- 💎 Subscription Plans
 
 </td>
 
 <td valign="top">
 
-## 🛡️ Safety & Performance
+## 🔔 Real-Time
 
+- 🔄 Socket.IO
+- 📲 Push Notifications
 - 🚨 Emergency SOS
+- 📡 Live Trip Updates
+- 🟢 Online / Offline
+- 📢 Driver Alerts
+
+</td>
+
+<td valign="top">
+
+## ⚙️ Performance
+
 - 🔋 Battery Optimization
-- 📱 Background Location Tracking
-- ⚡ Optimized Performance
-- 🎨 Modern UI / UX
-- 🚀 Smooth User Experience
+- 📍 Background Tracking
+- ⚡ Fast Performance
+- 🎨 Modern UI/UX
+- 📱 Responsive Design
+- 🔒 Secure Experience
 
 </td>
 
 </tr>
-
 </table>
 ## 📱 Screens
 
