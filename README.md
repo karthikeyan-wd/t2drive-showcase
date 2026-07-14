@@ -44,51 +44,52 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 ---
 
-# ✨ Key Features
+<h1 align="left">✨ Key Features</h1>
 
-<table width="100%">
+<div align="center">
 
+<table align="center" width="95%">
 <tr>
 
 <td width="33%" valign="top">
 
-### 👤 Driver Onboarding
+<h3>👤 Driver Onboarding</h3>
 
-- 📱 OTP Authentication
-- 👤 Profile Registration
-- 📄 Document Upload
-- 🪪 Aadhaar & PAN Verification
-- 🚘 Driving License
-- 🚗 Vehicle Documents
-- 📷 Profile Photo
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🚖 Ride Management
-
-- ⚡ Live Ride Requests
-- ✅ Accept / Reject Trips
-- 🚕 Local Trips
-- 🛣️ Outstation Trips
-- 🔄 Round Trips
-- 📅 Scheduled Rides
-- ⏳ Waiting & Day Halt
+• 📱 OTP Authentication<br>
+• 👤 Profile Registration<br>
+• 📄 Document Upload<br>
+• 🪪 Aadhaar & PAN Verification<br>
+• 🚘 Driving License<br>
+• 🚗 Vehicle Documents<br>
+• 📷 Profile Photo
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🗺️ Navigation
+<h3>🚖 Ride Management</h3>
 
-- 📍 Google Maps
-- 🧭 Turn-by-Turn Navigation
-- 🚩 Pickup Navigation
-- 🎯 Destination Navigation
-- 📡 Live Tracking
-- 📤 Live Location Sharing
-- ⏱️ ETA Updates
+• ⚡ Live Ride Requests<br>
+• ✅ Accept / Reject Trips<br>
+• 🚕 Local Trips<br>
+• 🛣️ Outstation Trips<br>
+• 🔄 Round Trips<br>
+• 📅 Scheduled Rides<br>
+• ⏳ Waiting & Day Halt
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🗺️ Navigation</h3>
+
+• 📍 Google Maps<br>
+• 🧭 Turn-by-Turn Navigation<br>
+• 🚩 Pickup Navigation<br>
+• 🎯 Destination Navigation<br>
+• 📡 Live Tracking<br>
+• 📤 Live Location Sharing<br>
+• ⏱️ ETA Updates
 
 </td>
 
@@ -98,49 +99,50 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 <td valign="top">
 
-### 💰 Earnings & Payments
+<h3>💰 Earnings & Payments</h3>
 
-- 💵 Daily Earnings
-- 📊 Ride Statistics
-- 👛 Driver Wallet
-- 💳 Fare Collection
-- ⚡ Razorpay Payments
-- 💎 Subscription Plans
-- 📜 Trip History
-
-</td>
-
-<td valign="top">
-
-### 🔔 Real-Time Services
-
-- 🔄 Socket.IO
-- 📲 Push Notifications
-- 📡 Live Trip Updates
-- 🟢 Online / Offline
-- 🚨 Emergency SOS
-- 📢 Driver Alerts
-- 📍 Driver Status
+• 💵 Daily Earnings<br>
+• 📊 Ride Statistics<br>
+• 👛 Driver Wallet<br>
+• 💳 Fare Collection<br>
+• ⚡ Razorpay Payments<br>
+• 💎 Subscription Plans<br>
+• 📜 Trip History
 
 </td>
 
 <td valign="top">
 
-### ⚙️ Performance
+<h3>🔔 Real-Time Services</h3>
 
-- 🔋 Battery Optimization
-- 📍 Background Tracking
-- ⚡ Fast Performance
-- 🎨 Modern UI/UX
-- 📱 Responsive Design
-- 🔒 Secure Experience
-- 🚀 Optimized Performance
+• 🔄 Socket.IO<br>
+• 📲 Push Notifications<br>
+• 📡 Live Trip Updates<br>
+• 🟢 Online / Offline<br>
+• 🚨 Emergency SOS<br>
+• 📢 Driver Alerts<br>
+• 📍 Driver Status
+
+</td>
+
+<td valign="top">
+
+<h3>⚙️ Performance</h3>
+
+• 🔋 Battery Optimization<br>
+• 📍 Background Tracking<br>
+• ⚡ Fast Performance<br>
+• 🎨 Modern UI/UX<br>
+• 📱 Responsive Design<br>
+• 🔒 Secure Experience<br>
+• 🚀 Optimized Performance
 
 </td>
 
 </tr>
-
 </table>
+
+</div>
 ## 📱 Screens
 
 <p align="center">
