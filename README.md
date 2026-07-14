@@ -40,15 +40,106 @@ A scalable **Driver Partner Platform** that streamlines **driver onboarding, rid
 ---
 ## 📖 Project Overview
 
-A scalable driver application that enables onboarding, ride management, navigation, live tracking, payment collection, and real-time communication.
+T2Drive is a comprehensive React Native-based mobility platform designed for driver partners. It streamlines the entire driver journey—from registration and document verification to ride management, navigation, earnings tracking, and secure payment processing. The application provides a seamless, reliable, and user-friendly experience while enabling drivers to efficiently manage daily operations.
 
 ---
 
-## 🚀 Application Flow
+# ✨ Key Features
 
-⁠ OTP Login ⁠ ➜ ⁠ Profile Setup ⁠ ➜ ⁠ Document Upload ⁠ ➜ ⁠ Verification ⁠ ➜ ⁠ Subscription ⁠ ➜ ⁠ Go Online ⁠ ➜ ⁠ Receive Ride ⁠ ➜ ⁠ Navigation ⁠ ➜ ⁠ Payment ⁠ ➜ ⁠ Trip Completed ⁠
+<table>
 
----
+<tr>
+
+<td width="50%" valign="top">
+
+## 👤 Driver Onboarding
+
+- 📱 Mobile Number OTP Authentication
+- 👤 Driver Profile Registration
+- 📄 Document Upload & Verification
+- 🪪 Aadhaar, PAN & Driving License Verification
+- 🚗 Vehicle Document Submission
+- 📷 Profile Photo Upload
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚖 Ride Management
+
+- ⚡ Live Ride Requests
+- ✅ Accept & Reject Rides
+- 🚕 Local Trips
+- 🛣️ Outstation One-Way
+- 🔄 Round Trip Support
+- 📅 Scheduled Rides
+- ⏳ Waiting Trips
+- 🌄 Day Halt Trips
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 🗺️ Navigation & Tracking
+
+- 📍 Google Maps Integration
+- 🧭 Turn-by-Turn Navigation
+- 🚩 Pickup & Drop Navigation
+- 📡 Real-Time Driver Tracking
+- 📤 Live Location Sharing
+- ⏱️ ETA & Route Updates
+
+</td>
+
+<td valign="top">
+
+## 💰 Earnings & Payments
+
+- 💵 Daily Earnings Dashboard
+- 📊 Ride Statistics
+- 💳 Secure Fare Collection
+- 👛 Driver Wallet
+- 💎 Subscription Plans
+- ⚡ Razorpay Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 🔔 Real-Time Communication
+
+- 🔄 Socket.IO Integration
+- 📲 Instant Ride Notifications
+- 🔔 Driver Alerts
+- 📡 Live Trip Updates
+- 🟢 Online / Offline Status
+
+</td>
+
+<td valign="top">
+
+## 🛡️ Safety & Performance
+
+- 🚨 Emergency SOS
+- 🔋 Battery Optimization
+- 📱 Background Location Tracking
+- ⚡ Optimized Performance
+- 🎨 Modern UI / UX
+- 🚀 Smooth User Experience
+
+</td>
+
+</tr>
+
+</table>
 ## 📱 Screens
 
 <p align="center">
