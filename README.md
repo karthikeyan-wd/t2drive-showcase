@@ -44,7 +44,7 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 ---
 
-<h1 align="left">✨ Key Features</h1>
+<h1 align="left">🌟 Core Modules</h1>
 
 <div align="center">
 
