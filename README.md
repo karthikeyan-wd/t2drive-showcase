@@ -1,10 +1,13 @@
 <div align="center">
 
-# 🚖 T2Drive
+<h1>
+  <img src="./assets/logo.png" alt="T2Drive Logo" width="48" />
+  T2Drive
+</h1>
 
-### Driver Partner Platform
+<h3>Driver Partner Platform</h3>
 
-> **Drive Smarter • Earn Better • Deliver Seamlessly**
+<p><i>Drive Smarter • Earn Better • Deliver Seamlessly</i></p>
 
 <p align="center">
   <img src="./T2D.png" width="100%" alt="T2Drive Banner"/>
