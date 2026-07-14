@@ -1,2 +1,11 @@
-# t2drive-showcase
-T2Drive is a complete mobility platform for driver partners, featuring digital onboarding, live ride requests, GPS navigation, real-time location tracking, secure payments, subscriptions, and trip management.
+<p align="center">
+
+# 🚖 T2Drive (VDrive)
+
+### Driver Partner Platform
+
+<img src="./assets/banner.png" width="100%" alt="T2Drive Banner"/>
+
+**Empowering drivers with seamless onboarding, real-time ride management, smart navigation, secure payments, and live trip tracking.**
+
+</p>
