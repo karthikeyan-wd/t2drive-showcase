@@ -1,6 +1,6 @@
 <p align="center">
 
-# 🚖 T2Drive (VDrive)
+# 🚖 T2Drive
 
 ### Driver Partner Platform
 
