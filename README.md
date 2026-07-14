@@ -7,7 +7,7 @@
 > **Drive Smarter • Earn Better • Deliver Seamlessly**
 
 <p align="center">
-  <img src="./t2driveBanner.png" width="100%" alt="T2Drive Banner"/>
+  <img src="./T2D.png" width="100%" alt="T2Drive Banner"/>
 </p>
 
 <br>
