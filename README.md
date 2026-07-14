@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="./assets/logo.png" alt="T2Drive Logo" width="48" />
+  <img src="./t2drive.png" alt="T2Drive Logo" width="48" />
   T2Drive
 </h1>
 
