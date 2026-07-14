@@ -2,7 +2,7 @@
 
 <h1>
   <img src="./t2drive.png" alt="T2Drive Logo" width="68" />
-   Driver Booking App
+  <P>mobile application</P>
 </h1>
 
 <p align="center">
