@@ -46,49 +46,72 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 # ✨ Key Features
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
 
-## 👤 Driver Onboarding
+### 👤 Driver Onboarding
 
-- 📱 OTP Authentication
-- 👤 Profile Registration
-- 📄 Document Upload
-- 🪪 Aadhaar Verification
-- 🚘 Driving License
-- 🚗 Vehicle Documents
-- 📷 Profile Photo
+---
 
-</td>
+📱 **OTP Authentication**
 
-<td width="33%" valign="top">
+👤 **Profile Registration**
 
-## 🚖 Ride Management
+📄 **Document Upload**
 
-- ⚡ Live Ride Requests
-- ✅ Accept / Reject Trips
-- 🚕 Local Rides
-- 🛣️ Outstation One-Way
-- 🔄 Round Trips
-- 📅 Scheduled Rides
-- ⏳ Waiting Trips
-- 🌄 Day Halt
+🪪 **Identity Verification**
+
+🚗 **Vehicle Documents**
+
+📷 **Profile Photo**
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🗺️ Navigation
+### 🚖 Ride Management
 
-- 📍 Google Maps
-- 🧭 Turn-by-Turn Navigation
-- 🚩 Pickup Navigation
-- 🎯 Destination Navigation
-- 📡 Live Tracking
-- 📤 Live Location Sharing
-- ⏱ ETA Updates
+---
+
+⚡ **Live Ride Requests**
+
+✅ **Accept / Reject Trips**
+
+🚕 **Local Rides**
+
+🛣 **Outstation Trips**
+
+🔄 **Round Trips**
+
+📅 **Scheduled Rides**
+
+⏳ **Waiting Trips**
+
+🌄 **Day Halt**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗺 Navigation
+
+---
+
+📍 **Google Maps**
+
+🧭 **Turn-by-Turn Navigation**
+
+🚩 **Pickup Navigation**
+
+🎯 **Destination Navigation**
+
+📡 **Live Tracking**
+
+📤 **Location Sharing**
+
+⏱ **ETA Updates**
 
 </td>
 
@@ -98,40 +121,61 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 <td valign="top">
 
-## 💰 Earnings
+### 💰 Earnings
 
-- 💵 Daily Earnings
-- 📊 Ride Statistics
-- 👛 Wallet
-- 💳 Fare Collection
-- ⚡ Razorpay Payments
-- 💎 Subscription Plans
+---
 
-</td>
+💵 **Daily Earnings**
 
-<td valign="top">
+📊 **Ride Analytics**
 
-## 🔔 Real-Time
+👛 **Driver Wallet**
 
-- 🔄 Socket.IO
-- 📲 Push Notifications
-- 🚨 Emergency SOS
-- 📡 Live Trip Updates
-- 🟢 Online / Offline
-- 📢 Driver Alerts
+💳 **Fare Collection**
+
+⚡ **Razorpay Payments**
+
+💎 **Subscription Plans**
 
 </td>
 
 <td valign="top">
 
-## ⚙️ Performance
+### 🔔 Real-Time
 
-- 🔋 Battery Optimization
-- 📍 Background Tracking
-- ⚡ Fast Performance
-- 🎨 Modern UI/UX
-- 📱 Responsive Design
-- 🔒 Secure Experience
+---
+
+🔄 **Socket.IO**
+
+📲 **Push Notifications**
+
+📡 **Live Trip Updates**
+
+🟢 **Online / Offline**
+
+🚨 **Emergency SOS**
+
+📢 **Driver Alerts**
+
+</td>
+
+<td valign="top">
+
+### ⚙ Performance
+
+---
+
+🔋 **Battery Optimization**
+
+📍 **Background Tracking**
+
+⚡ **High Performance**
+
+🎨 **Modern UI**
+
+📱 **Responsive Design**
+
+🔒 **Secure Experience**
 
 </td>
 
