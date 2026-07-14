@@ -6,7 +6,9 @@
 
 <h3>Driver Partner Platform</h3>
 
-<p><i>Drive Smarter • Earn Better • Deliver Seamlessly</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=900&lines=Driver+Partner+Platform;Real-Time+Ride+Management;Smart+Navigation+%26+Live+Tracking;Secure+Payments+%26+Wallet;Built+with+React+Native" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="./T2D.png" width="100%" alt="T2Drive Banner"/>
