@@ -1,9 +1,5 @@
 <div align="center">
 
-<h1>
-  <img src="./t2drive.png" alt="T2Drive Logo" width="68" />
-  <P>mobile application</P>
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=900&lines=Driver+Partner+Platform;Real-Time+Ride+Management;Smart+Navigation+%26+Live+Tracking;Secure+Payments+%26+Wallet;Built+with+React+Native" alt="Typing SVG" />
