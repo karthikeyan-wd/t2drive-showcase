@@ -147,70 +147,67 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td align="center" width="50%">
+<img src="./assets/screens/onbordingImg.png" width="220"/>
 
 ### 👤 Driver Onboarding
 
-<img src="./assets/screens/onbordingImg.png" width="220"/>
+Digital registration, KYC & document verification.
 
-**Complete digital onboarding experience**
-
-<a href="./docs/onboarding.md">📖 View Gallery →</a>
-
+<a href="./docs/onboarding.md">🔗 View Screens</a>
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
+<img src="./assets/screens/dashboradImg.png" width="220"/>
 
 ### 🏠 Dashboard
 
-<img src="./assets/screens/dashboradImg.png" width="220"/>
+Online status, earnings & ride overview.
 
-**Driver home, earnings & online status**
-
-<a href="./docs/dashboard.md">📖 View Gallery →</a>
-
+<a href="./docs/dashboard.md">🔗 View Screens</a>
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
+
+<td align="center">
+<img src="./assets/screens/trip.png" width="220"/>
 
 ### 🚖 Ride Management
 
-<img src="./assets/screens/trip.png" width="220"/>
+Accept rides, navigation & trip flow.
 
-**Trip lifecycle & navigation**
-
-<a href="./docs/rides.md">📖 View Gallery →</a>
-
+<a href="./docs/rides.md">🔗 View Screens</a>
 </td>
 
-<td width="50%" align="center">
+<td align="center">
+<img src="./assets/screens/profile.png" width="220"/>
 
 ### 👤 Profile
 
-<img src="./assets/screens/profile.png" width="220"/>
+Performance, activity & settings.
 
-**Performance, earnings & settings**
-
-<a href="./docs/profile.md">📖 View Gallery →</a>
-
+<a href="./docs/profile.md">🔗 View Screens</a>
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" align="center">
-
-### 💳 Subscription & Payments
-
 <img src="./assets/screens/subscription.png" width="220"/>
 
-**Plans, wallet & payment collection**
+### 💳 Subscription
 
-<a href="./docs/payments.md">📖 View Gallery →</a>
+Plans, wallet & payment collection.
 
+<a href="./docs/payments.md">🔗 View Screens</a>
 </td>
+
 </tr>
+
 </table>
 ## ✨ Features
 
