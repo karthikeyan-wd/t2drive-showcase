@@ -145,13 +145,73 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 </div>
 # 📱 Application Screens
 
-| Module | Preview | Gallery |
-|---------|---------|---------|
-| 👤 Driver Onboarding | <img src="./assets/screens/onbordingImg.png" width="150"/> | [View All →](./docs/onboarding.md) |
-| 🏠 Dashboard | <img src="./assets/screens/dashboradImg.png" width="150"/> | [View All →](./docs/dashboard.md) |
-| 🚖 Ride Management | <img src="./assets/screens/trip.png" width="150"/> | [View All →](./docs/rides.md) |
-| 👤 Profile | <img src="./assets/screens/profile.png" width="150"/> | [View All →](./docs/profile.md) |
-| 💳 Payments | <img src="./assets/screens/subscription.png" width="150"/> | [View All →](./docs/payments.md) |
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 👤 Driver Onboarding
+
+<img src="./assets/screens/onbordingImg.png" width="220"/>
+
+**Complete digital onboarding experience**
+
+<a href="./docs/onboarding.md">📖 View Gallery →</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏠 Dashboard
+
+<img src="./assets/screens/dashboradImg.png" width="220"/>
+
+**Driver home, earnings & online status**
+
+<a href="./docs/dashboard.md">📖 View Gallery →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🚖 Ride Management
+
+<img src="./assets/screens/trip.png" width="220"/>
+
+**Trip lifecycle & navigation**
+
+<a href="./docs/rides.md">📖 View Gallery →</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 👤 Profile
+
+<img src="./assets/screens/profile.png" width="220"/>
+
+**Performance, earnings & settings**
+
+<a href="./docs/profile.md">📖 View Gallery →</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 💳 Subscription & Payments
+
+<img src="./assets/screens/subscription.png" width="220"/>
+
+**Plans, wallet & payment collection**
+
+<a href="./docs/payments.md">📖 View Gallery →</a>
+
+</td>
+</tr>
+</table>
 ## ✨ Features
 
 <p>
