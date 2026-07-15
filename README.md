@@ -252,7 +252,7 @@ Subscription plans, Razorpay payment integration, wallet management, recharge hi
 
 | 👤 Onboarding | 🏠 Dashboard | 🚖 Ride Flow | 👤 Profile | 💳 Payments |
 |:------------:|:------------:|:------------:|:----------:|:-----------:|
-| **40+ Screens** | **15+ Screens** | **30+ Screens** | **20+ Screens** | **10+ Screens** |
+| **6+ Screens** | **1+ Screens** | **10+ Screens** | **7+ Screens** | **2+ Screens** |
 
 </p>
 ## ✨ Features
