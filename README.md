@@ -148,10 +148,10 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 | Module | Preview | Gallery |
 |---------|---------|---------|
 | 👤 Driver Onboarding | <img src="./assets/screens/onbordingImg.png" width="150"/> | [View All →](./docs/onboarding.md) |
-| 🏠 Dashboard | <img src="./assets/screens/dashboard/01.png" width="150"/> | [View All →](./docs/dashboard.md) |
-| 🚖 Ride Management | <img src="./assets/screens/rides/01.png" width="150"/> | [View All →](./docs/rides.md) |
-| 👤 Profile | <img src="./assets/screens/profile/01.png" width="150"/> | [View All →](./docs/profile.md) |
-| 💳 Payments | <img src="./assets/screens/payments/01.png" width="150"/> | [View All →](./docs/payments.md) |
+| 🏠 Dashboard | <img src="./assets/screens/dashboradImg.png" width="150"/> | [View All →](./docs/dashboard.md) |
+| 🚖 Ride Management | <img src="./assets/screens/trip.png" width="150"/> | [View All →](./docs/rides.md) |
+| 👤 Profile | <img src="./assets/screens/profile.png" width="150"/> | [View All →](./docs/profile.md) |
+| 💳 Payments | <img src="./assets/screens/subscription.png" width="150"/> | [View All →](./docs/payments.md) |
 ## ✨ Features
 
 <p>
