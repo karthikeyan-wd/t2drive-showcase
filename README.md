@@ -145,51 +145,79 @@ T2Drive is a comprehensive React Native-based mobility platform designed for dri
 </div>
 # 📱 Application Screens
 
+<p align="center">
+Explore the key modules of the <strong>VDrive Driver Partner App</strong>. Each module showcases a complete workflow with dedicated UI screens and interactions.
+</p>
+
 <table>
 <tr>
 
-<td align="center" width="50%">
-<img src="./assets/screens/onbordingImg.png" width="220"/>
+<td width="50%" align="center">
 
-### 👤 Driver Onboarding
+## 👤 Driver Onboarding
 
-Digital registration, KYC & document verification.
+<img src="./assets/screens/onbordingImg.png" width="260"/>
 
-<a href="./docs/onboarding.md">🔗 View Screens</a>
+Digital onboarding experience including OTP verification, personal details, address information, document upload, KYC verification, and approval workflow.
+
+<br>
+
+<a href="./docs/onboarding.md">
+<b>📂 View Complete Gallery →</b>
+</a>
+
 </td>
 
-<td align="center" width="50%">
-<img src="./assets/screens/dashboradImg.png" width="220"/>
+<td width="50%" align="center">
 
-### 🏠 Dashboard
+## 🏠 Dashboard
 
-Online status, earnings & ride overview.
+<img src="./assets/screens/dashboradImg.png" width="260"/>
 
-<a href="./docs/dashboard.md">🔗 View Screens</a>
+Driver dashboard featuring live maps, online/offline status, earnings summary, ride requests, and real-time performance insights.
+
+<br>
+
+<a href="./docs/dashboard.md">
+<b>📂 View Complete Gallery →</b>
+</a>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-<img src="./assets/screens/trip.png" width="220"/>
+<td width="50%" align="center">
 
-### 🚖 Ride Management
+## 🚖 Ride Management
 
-Accept rides, navigation & trip flow.
+<img src="./assets/screens/trip.png" width="260"/>
 
-<a href="./docs/rides.md">🔗 View Screens</a>
+Complete ride lifecycle including request acceptance, navigation, pickup, OTP verification, trip progress, waiting, destination, and payment collection.
+
+<br>
+
+<a href="./docs/rides.md">
+<b>📂 View Complete Gallery →</b>
+</a>
+
 </td>
 
-<td align="center">
-<img src="./assets/screens/profile.png" width="220"/>
+<td width="50%" align="center">
 
-### 👤 Profile
+## 👤 Driver Profile
 
-Performance, activity & settings.
+<img src="./assets/screens/profile.png" width="260"/>
 
-<a href="./docs/profile.md">🔗 View Screens</a>
+Manage profile information, performance analytics, earnings, ride activity, referral program, settings, and account management.
+
+<br>
+
+<a href="./docs/profile.md">
+<b>📂 View Complete Gallery →</b>
+</a>
+
 </td>
 
 </tr>
@@ -197,18 +225,36 @@ Performance, activity & settings.
 <tr>
 
 <td colspan="2" align="center">
-<img src="./assets/screens/subscription.png" width="220"/>
 
-### 💳 Subscription
+## 💳 Subscription & Payments
 
-Plans, wallet & payment collection.
+<img src="./assets/screens/subscription.png" width="260"/>
 
-<a href="./docs/payments.md">🔗 View Screens</a>
+Subscription plans, Razorpay payment integration, wallet management, recharge history, and secure payment collection.
+
+<br>
+
+<a href="./docs/payments.md">
+<b>📂 View Complete Gallery →</b>
+</a>
+
 </td>
 
 </tr>
 
 </table>
+
+---
+
+<p align="center">
+
+### 📂 Explore Complete Screen Galleries
+
+| 👤 Onboarding | 🏠 Dashboard | 🚖 Ride Flow | 👤 Profile | 💳 Payments |
+|:------------:|:------------:|:------------:|:----------:|:-----------:|
+| **40+ Screens** | **15+ Screens** | **30+ Screens** | **20+ Screens** | **10+ Screens** |
+
+</p>
 ## ✨ Features
 
 <p>
