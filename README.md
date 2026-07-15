@@ -172,7 +172,7 @@ Digital onboarding experience including OTP verification, personal details, addr
 
 ## 🏠 Dashboard
 
-<img src="./assets/screens/dashboradImg.png" width="260"/>
+<img src="./assets/screens/dash.png" width="260"/>
 
 Driver dashboard featuring live maps, online/offline status, earnings summary, ride requests, and real-time performance insights.
 
